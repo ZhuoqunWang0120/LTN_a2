@@ -1,0 +1,2 @@
+For nOTU = 50, 75, run
+/work/zw122/LTN_analysis1/src/simulation/cross_group_comparison/collect_teststat_notu.sh # remember to change the notu and parameter ranges
